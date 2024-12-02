@@ -35,7 +35,6 @@ This implementation will require:
 - PyTorch
 - NumPy
 - SciPy
-- MNE-Python
 - Scikit-learn
 
 ## Model Architecture
@@ -79,10 +78,6 @@ If you find this work useful, please cite our paper:
   year={2024}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
